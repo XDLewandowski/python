@@ -1,1 +1,1 @@
-# python
+# Cwiczenia z Pythona
